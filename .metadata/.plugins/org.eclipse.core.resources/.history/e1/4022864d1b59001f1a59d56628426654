@@ -1,0 +1,7 @@
+package sw.mbccom.kr;
+
+public class Hello {
+	ystem.out.println("Hello, Java");
+
+
+}
